@@ -9,5 +9,5 @@
 	<e:Group id="like" width="221" height="78" left="200" bottom="100">
 		<e:Label text="知道了" horizontalCenter="0" verticalCenter="0" size="50" textColor="0x000000" fontFamily="SimHei"/>
 	</e:Group>
-	<e:Label id="title" text="恭喜陶淑琪小朋友又老了一岁" size="80" textColor="0x000000" fontFamily="SimHei" anchorOffsetY="0" height="176" anchorOffsetX="0" width="660" verticalAlign="middle" textAlign="center" horizontalCenter="0" verticalCenter="-101"/>
+	<e:Label id="title" text="恭喜你又老了一岁" size="80" textColor="0x000000" fontFamily="SimHei" anchorOffsetY="0" height="176" anchorOffsetX="0" width="660" verticalAlign="middle" textAlign="center" horizontalCenter="0" verticalCenter="-101"/>
 </e:Skin>

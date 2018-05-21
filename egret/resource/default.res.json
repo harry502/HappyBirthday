@@ -5,7 +5,7 @@
 			"name": "game"
 		},
 		{
-			"keys": "BG_jpg",
+			"keys": "BG_jpg,config_json",
 			"name": "loading"
 		},
 		{
@@ -33,6 +33,11 @@
 			"url": "sound/HappyBirthday.m4a",
 			"type": "sound",
 			"name": "HappyBirthday_m4a"
+		},
+		{
+			"url": "config/config.json",
+			"type": "json",
+			"name": "config_json"
 		}
 	]
 }

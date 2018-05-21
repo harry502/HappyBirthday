@@ -17,6 +17,7 @@ class GameView extends core.UIView {
 		this.notlike.addEventListener(egret.TouchEvent.TOUCH_BEGIN,()=>{
 			this.flash();
 		},this);
+		this.title.text = RES.getRes("config_json").title;
 	}
 
 	public destroy()
